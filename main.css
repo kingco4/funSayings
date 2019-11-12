@@ -8,5 +8,28 @@ h1{
 p{
     font-family: 'Roboto Mono', monospace;
     font-size: 24px;
+    text-align: center;
     
+}
+
+span{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 37px;
+    align-content: center;
+    color: blue;
+}
+
+.box{
+    border: 3px solid cyan;
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    overflow-y: scroll;
+}
+
+#bottom{
+    font-size: 12px;
+    position: fixed;
+    bottom: 0;
+
 }
